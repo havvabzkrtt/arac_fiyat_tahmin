@@ -8,4 +8,4 @@ The VEHICLE PRICE ESTIMATION application is a tool designed to assist individual
 //drive.google.com/file/d/1_9awxnw0tkqf2eniwlstovmkyvvcotyu/view? usp = Drive_link
 
 
-! [Resim] (Arac_tahmin.png)
+![Resim] (Arac_tahmin.png)
