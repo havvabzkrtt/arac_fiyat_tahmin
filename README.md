@@ -7,8 +7,6 @@
 
 ## English
 
----
-
 # 🚗 Vehicle Price Prediction System
 
 This project was developed to predict vehicle prices based on listing data using machine learning models. It was implemented as part of the **Data Mining** course at Sakarya University of Applied Sciences, Computer Engineering Department.
@@ -17,7 +15,6 @@ This project was developed to predict vehicle prices based on listing data using
 
 The goal is to accurately estimate vehicle prices using various features (e.g., model year, engine power, mileage). This can assist users in evaluating vehicle prices or help listing platforms automatically verify price consistency.
 
----
 
 ## 🧪 Technologies Used
 
@@ -26,7 +23,6 @@ The goal is to accurately estimate vehicle prices using various features (e.g., 
 - Data Visualization
 - GUI with Tkinter
 
----
 
 ## 🧼 Data Processing Steps
 
@@ -35,7 +31,6 @@ The goal is to accurately estimate vehicle prices using various features (e.g., 
 - New features were created through feature engineering (e.g., `vehicle age`, `wear score`, `days listed`).
 - Feature selection was performed using correlation analysis.
 
----
 
 ## 🧠 Applied Models & Accuracy Scores
 
@@ -55,13 +50,13 @@ Sample predictions:
 | 1,075,000 TL   | 1,069,639 TL   | 1,115,000 TL   | 1,070,001 TL       | 1,065,802 TL |
 | 425,000 TL     | 451,527 TL     | 455,000 TL     | 455,138 TL         | 420,889 TL   |
 
----
+
 
 ## 💻 GUI
 
 A desktop interface was developed using `Tkinter`. The user enters vehicle information and the system predicts the price using a pre-trained `Decision Tree Regressor` model.
 
----
+
 
 ## 📊 Data Visualization
 
@@ -73,7 +68,7 @@ Several analyses were visualized during the project:
 - Listing counts by city
 - Transmission / Fuel type insights
 
----
+
 
 ## 📁 Project Structure
 
@@ -104,7 +99,6 @@ With comprehensive data cleaning, feature selection, and model comparisons, the 
 
 
 ![Resim](arac_tahmin.PNG)
----
 
 
 ## Türkçe
@@ -117,7 +111,7 @@ Bu proje, araçların ilan verileri üzerinden fiyatlarını tahmin etmek amacı
 
 Araç ilanlarına ait çeşitli özellikler (model yılı, motor gücü, kullanım durumu vb.) kullanılarak araç fiyatlarının doğru şekilde tahmin edilmesi hedeflenmiştir. Bu sayede hem kullanıcılar için fiyat tahmininde bulunmak hem de ilan sitelerinde otomatik fiyat doğrulaması yapılabilmesi amaçlanmaktadır.
 
----
+
 
 ## 🧪 Kullanılan Teknolojiler
 
@@ -126,7 +120,6 @@ Araç ilanlarına ait çeşitli özellikler (model yılı, motor gücü, kullan�
 - Veri Görselleştirme
 - Tkinter ile Masaüstü Arayüz
 
----
 
 ## 🧼 Veri İşleme Süreci
 
@@ -135,7 +128,7 @@ Araç ilanlarına ait çeşitli özellikler (model yılı, motor gücü, kullan�
 - Öznitelik mühendisliği ile `araç yaşı`, `yıpranma değeri`, `kaç gün ilanda` gibi yeni değişkenler üretildi.
 - Korelasyon analizine göre model eğitiminde kullanılacak sütunlar belirlendi.
 
----
+
 
 ## 🧠 Kullanılan Modeller ve Başarı Oranları
 
@@ -155,13 +148,12 @@ Model tahmin örnekleri:
 | 1,075,000 TL | 1,069,639 TL   | 1,115,000 TL| 1,070,001 TL     | 1,065,802 TL |
 | 425,000 TL   | 451,527 TL     | 455,000 TL  | 455,138 TL       | 420,889 TL   |
 
----
+
 
 ## 💻 Arayüz
 
 Proje sonunda bir masaüstü arayüz uygulaması (`Tkinter`) geliştirilmiştir. Kullanıcı, araç bilgilerini girerek fiyat tahmini alabilir. Arayüzde kullanılan model: `Karar Ağacı Regresyon`.
 
----
 
 ## 📊 Veri Görselleştirme
 
@@ -173,7 +165,7 @@ Proje sonunda şu analizler görselleştirilmiştir:
 - Şehir bazlı ilan dağılımı
 - Şanzıman / Yakıt Türü analizleri
 
----
+
 
 ## 📁 Proje Dosya Yapısı
 
@@ -203,5 +195,5 @@ Araç fiyat tahmini konusunda veri temizleme, öznitelik seçimi ve farklı mode
 
 ![Resim](arac_tahmin.PNG)
 
----
+
 
